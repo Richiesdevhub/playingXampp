@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inputs  {
+    display: block;
+    margin: 10px;
+}
